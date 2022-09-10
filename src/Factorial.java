@@ -9,6 +9,7 @@ public class Factorial {
         System.out.println("Factorial is:" + factorial);
     }
 
+
     static int fact(int n) {
         int output;
         if (n == 1) {
